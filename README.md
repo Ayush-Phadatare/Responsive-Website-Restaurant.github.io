@@ -2,9 +2,6 @@
 Learn how to build an animated, fully responsive restaurant website using HTML, CSS, and JavaScript!
 
 # live website 
-![image](https://github.com/user-attachments/assets/9388f247-ed77-49c2-b3f7-2c3b4ad54d05)
-
-
 [click here](https://ayush-phadatare.github.io/Responsive-Website-Restaurant.github.io/)
 
 
